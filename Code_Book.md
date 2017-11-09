@@ -6,10 +6,10 @@ The tidy data txt file that is created as a result of the provided “run_analys
 
 
 ## Variables
-*subject*
+*”subject”*
 - Each number corresponds with a subject(1-30)
 
-*label*
+*”label”*
 - Label indicates the action being performed during collection of data
 
 *features: extracted from original data set - see README.md for more info*
