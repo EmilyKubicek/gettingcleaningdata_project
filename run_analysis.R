@@ -72,7 +72,7 @@ t3$label[t3$label == 5] <- "standing"
 t3$label[t3$label == 6] <- "laying"
 
 ###4.Appropriately label data set with descriptive variable names
-
+###please see lines 33 - 36
 
 ###5.Create a second, independent tidy data set with the average of each
 ###variable for each activity and each subject
